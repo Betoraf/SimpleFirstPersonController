@@ -16,7 +16,8 @@ SimpleFirstPersonController is a simple and convenient first-person character co
 
 ## Installation
 
-- Just import this package into your project and start using it!
+- Import the `SimpleFirstPersonController.unitypackage` into your project.
+- Use the controller in your scene for character movement.
 
 The project is not licensed and can be used for free.
 
