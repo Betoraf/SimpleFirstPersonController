@@ -16,7 +16,7 @@ SimpleFirstPersonController is a simple and convenient first-person character co
 
 ## Installation
 
-1. Just import this package into your project and start using it!
+- Just import this package into your project and start using it!
 
 The project is not licensed and can be used for free.
 
