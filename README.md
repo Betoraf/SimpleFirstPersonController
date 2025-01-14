@@ -1,3 +1,5 @@
+![Movie GIF](path/to/movie.gif)
+
 # SimpleFirstPersonController
 
 SimpleFirstPersonController is a simple and convenient first-person character controller suitable for both PC and mobile devices. It is designed with ease of use and good performance in mind. This script can be easily extended to add new features and capabilities.
