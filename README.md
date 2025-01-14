@@ -31,3 +31,5 @@ The project is not licensed and can be used for free.
 ## Author
 
 Developer: **Betoraf**
+
+![Movie GIF](movie.gif)
