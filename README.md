@@ -1,4 +1,4 @@
-![Movie GIF](path/to/movie.gif)
+![Movie GIF](movie.gif)
 
 # SimpleFirstPersonController
 
