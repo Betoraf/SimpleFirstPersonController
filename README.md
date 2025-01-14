@@ -16,9 +16,7 @@ SimpleFirstPersonController is a simple and convenient first-person character co
 
 ## Installation
 
-1. Download the project.
-2. Open it in Unity.
-3. Use the character controller in your project.
+1. Just import this package into your project and start using it!
 
 The project is not licensed and can be used for free.
 
